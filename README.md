@@ -1,4 +1,4 @@
-# Stock_Price_Prediction
+# Stock_Price_Prediction.  
  
 About this project:
 
@@ -8,4 +8,9 @@ Scope:
 
 The scope of the code is to predict stock prices using an LSTM model based on historical price data, focusing on data preprocessing, model training, and evaluation. It does not incorporate external factors or advanced techniques, and further refinement may be needed for real-world applications.
 
+Conclusion:
 
+
+In conclusion, the developed stock price prediction model using LSTM demonstrates promising results with an R-squared accuracy of 91.6%. This indicates that the model is able to capture and learn from the historical price patterns effectively, leading to reasonably accurate predictions. However, it is important to note that further testing and validation on diverse datasets and consideration of external factors are necessary to ensure its reliability and applicability in real-world scenarios.
+
+Look out Pravithra M G (https://github.com/PavithraMadhan) who contributed in this project
